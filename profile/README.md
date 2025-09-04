@@ -43,8 +43,8 @@ test modules, or help with docs. You can help us:
 ### 📬 Connect
 
 - 💬 [Join the PowerShell Community Discord](https://discord.gg/powershell)
-- 📝 Open an [issue](https://github.com/PSInclusive/.github/issues) with your
-  ideas
+- 📝 Create a new [discussion](https://github.com/orgs/PSInclusive/discussions) thread
+  with your ideas
 - 🌟 Star and follow our repos to stay in the loop
 
 ---
